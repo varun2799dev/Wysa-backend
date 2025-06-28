@@ -34,5 +34,5 @@ A Node.js backend for Wysa Sleep's onboarding flow with analytics tracking, buil
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/wysa-sleep-backend.git
-   cd wysa-sleep-backend
+   git clone https://github.com/varun2799dev/Wysa-backend.git
+   cd Wysa-backend
